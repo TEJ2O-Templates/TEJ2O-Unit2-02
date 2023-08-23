@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program shows "Hello, MTHS!"
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, MTHS!')
